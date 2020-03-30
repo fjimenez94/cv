@@ -24,6 +24,7 @@ h2 {
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  line-height: 1.75;
 }
 
 a {
@@ -104,6 +105,16 @@ hr {
   position: absolute;
   left: 250px;
   bottom: 300px;
+}
+
+.feli-arriba {
+  height: 15%;
+  border-radius: 100%;
+  background-color: #EAF6F6;
+  position: absolute;
+  left: 300px;
+  top: 40px;
+
 }
 
 .skill-row {
